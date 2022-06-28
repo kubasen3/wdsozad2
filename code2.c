@@ -24,4 +24,5 @@ int main()
     {
         printf("Do widzenia\n");
     }
-    return 0
+    return 0;
+    }
